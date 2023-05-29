@@ -1,2 +1,2 @@
 # Monitor_De_Hardware
-Monitora os Hardwares do Ubuntu CPU,GPU,RAM
+Monitora os Hardwares em sistemas linux como Ubuntu CPU,GPU,RAM
